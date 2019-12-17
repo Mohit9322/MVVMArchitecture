@@ -1,0 +1,52 @@
+PODS:
+  - Alamofire (4.6.0)
+  - IQKeyboardManager (6.2.0)
+  - KeychainAccess (3.1.0)
+  - SDWebImage (4.4.2):
+    - SDWebImage/Core (= 4.4.2)
+  - SDWebImage/Core (4.4.2)
+  - SwiftyJSON (4.2.0)
+
+DEPENDENCIES:
+  - Alamofire (from `https://github.com/Alamofire/Alamofire.git`, tag `4.6.0`)
+  - IQKeyboardManager
+  - KeychainAccess (from `https://github.com/kishikawakatsumi/KeychainAccess`, tag `v3.1.0`)
+  - SDWebImage (~> 4.0)
+  - SwiftyJSON (from `https://github.com/SwiftyJSON/SwiftyJSON`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - IQKeyboardManager
+    - SDWebImage
+
+EXTERNAL SOURCES:
+  Alamofire:
+    :git: https://github.com/Alamofire/Alamofire.git
+    :tag: 4.6.0
+  KeychainAccess:
+    :git: https://github.com/kishikawakatsumi/KeychainAccess
+    :tag: v3.1.0
+  SwiftyJSON:
+    :git: https://github.com/SwiftyJSON/SwiftyJSON
+
+CHECKOUT OPTIONS:
+  Alamofire:
+    :git: https://github.com/Alamofire/Alamofire.git
+    :tag: 4.6.0
+  KeychainAccess:
+    :git: https://github.com/kishikawakatsumi/KeychainAccess
+    :tag: v3.1.0
+  SwiftyJSON:
+    :commit: 3f6f1d32df6e5f334593682b20bb829e48bffbee
+    :git: https://github.com/SwiftyJSON/SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 0dda98a0ed7eec4bdcd5fe3cdd35fcd2b3022825
+  IQKeyboardManager: 6194101620b73af5e67900b8f89707a99de0b804
+  KeychainAccess: d6fbf0cf06dbd76108d0358af53a231867a5b371
+  SDWebImage: 624d6e296c69b244bcede364c72ae0430ac14681
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+
+PODFILE CHECKSUM: 1b336ea332df4c282bc8e4b7e53b9178f53a124c
+
+COCOAPODS: 1.5.3
